@@ -11,4 +11,3 @@ $ npm i
 # Run in you localhost
 $ npm start
 ```
-To test server, in browser's URL bar, enter: `http://localhost:8080/drug`, you should see a list of drug
